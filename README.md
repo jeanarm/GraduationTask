@@ -25,11 +25,11 @@ Facilitating high level eduction in Rwanda
    *  The system should have an option to views all users of the system
 
 ## Catalog design
-https://docs.google.com/document/d/1CwDi0dsiU2hV8m_q5C2uTtvA9CmVIGFFH39qjskDCao/edit
+https://docs.google.com/document/d/1gxWX8wsZJ1_sbrh302ptds72r86Le3sp2qu_ETLUKFs/edit?usp=sharing
 ## Table definition
-https://docs.google.com/document/d/1gxWX8wsZJ1_sbrh302ptds72r86Le3sp2qu_ETLUKFs/edit
+https://docs.google.com/document/d/1CwDi0dsiU2hV8m_q5C2uTtvA9CmVIGFFH39qjskDCao/edit?usp=sharing
 ## ER diagram
-https://docs.google.com/document/d/1jbVWRzzS7DMCNyovDW410oFVXx7Um_6TXC5-z8EbpNg/edit
+https://drive.google.com/file/d/1tbpQU0y8kuMQLejRCRd_icGsdO8487gG/view?usp=sharing
 ## Screen transition diagram
 
 ## Screen wire frame (smartphone assumption)
