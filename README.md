@@ -25,24 +25,19 @@ Facilitating high level eduction in Rwanda
    *  The system should have an option to views all users of the system
 
 ## Catalog design
-https://docs.google.com/spreadsheets/d/1Q9W6ItcnblGbpJCEGqY3b9TDbV4O9-h0gyI_apMzfA4/edit?usp=sharing
-
+https://docs.google.com/document/d/1CwDi0dsiU2hV8m_q5C2uTtvA9CmVIGFFH39qjskDCao/edit
 ## Table definition
-https://docs.google.com/spreadsheets/d/1PRG_PsnG67MpTMfUI3AoTI7EaIN7mQgGflb_DR-FpF4/edit?usp=sharing
-
+https://docs.google.com/document/d/1gxWX8wsZJ1_sbrh302ptds72r86Le3sp2qu_ETLUKFs/edit
 ## ER diagram
-https://docs.google.com/spreadsheets/d/1ALLUavRvFHwCXCj8W5GsN7SIYTjc4RobO1iaLy63qd8/edit?usp=sharing
-
+https://docs.google.com/document/d/1jbVWRzzS7DMCNyovDW410oFVXx7Um_6TXC5-z8EbpNg/edit
 ## Screen transition diagram
-https://docs.google.com/spreadsheets/d/1b-sd0Jshizpb0BNUR1KyG3UuqY7j2RWVYm4NBZVPFyI/edit?usp=sharing
 
 ## Screen wire frame (smartphone assumption)
-https://docs.google.com/spreadsheets/d/1wECtxjS6ogei-ycEGbEx9nwZu5QbMhXDKD6Oj1We5fQ/edit?usp=sharing
 
-## Used Gem
-* capistrano
-* unicorn
-* carrierwave
-* mini_magick
-* fog-aws
-* search_cop
+## Used Gems
+* gem 'devise'
+* gem 'bootstrap', '~> 4.0'
+* gem 'carrierwave'
+* gem 'mini_magick'
+* gem 'popper_js', '~> 1.14.5'
+* gem 'jquery-rails' 
