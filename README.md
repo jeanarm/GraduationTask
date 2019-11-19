@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1tbpQU0y8kuMQLejRCRd_icGsdO8487gG/view?usp=shari
 ## Screen transition diagram
 
 ## Screen wire frame (smartphone assumption)
-
+https://docs.google.com/document/d/1isY4fPAJPh-zfs5WxTRqT2jMfIhNWffV_ukH-WKrWPU/edit?usp=sharing
 ## Used Gems
 * gem 'devise'
 * gem 'bootstrap', '~> 4.0'
