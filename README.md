@@ -31,7 +31,7 @@ https://docs.google.com/document/d/1CwDi0dsiU2hV8m_q5C2uTtvA9CmVIGFFH39qjskDCao/
 ## ER diagram
 https://drive.google.com/file/d/1tbpQU0y8kuMQLejRCRd_icGsdO8487gG/view?usp=sharing
 ## Screen transition diagram
-
+https://drive.google.com/file/d/1HODFMDHjcrt-ivhstH-yLndIFMdYoyco/view?usp=sharing
 ## Screen wire frame (smartphone assumption)
 https://docs.google.com/document/d/1isY4fPAJPh-zfs5WxTRqT2jMfIhNWffV_ukH-WKrWPU/edit?usp=sharing
 ## Used Gems
